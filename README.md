@@ -94,8 +94,8 @@ class Prem:
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077b5)](https://linkedin.com/in/prem-kudale)
-[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=e4405f)](https://instagram.com/premm07_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077b5)](https://www.linkedin.com/in/prem-kudale-prem-kudale/)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=e4405f)](https://instagram.com/prremm.k)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=ffa116)](https://leetcode.com/prem-kudale)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-0d1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2f8d46)](https://auth.geeksforgeeks.org/user/prem-kudale)
 [![Medium](https://img.shields.io/badge/Medium-0d1117?style=for-the-badge&logo=medium&logoColor=ffffff)](https://medium.com/@prem-kudale)
